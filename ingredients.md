@@ -1,3 +1,3 @@
-One packet of maggi, 
-one and a half cup of water
-and a pan.
+# One packet of maggi.
+# One and a half cup of water.
+# A pan.
